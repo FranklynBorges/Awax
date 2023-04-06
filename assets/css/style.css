@@ -343,7 +343,7 @@ header{
 }
 .section-team .sliders{
     width: 1000vw;
-    height: 100%;
+    height: 70%;
 }
 .section-team .slide{
     width: 280px;
@@ -373,7 +373,7 @@ header{
 .section-team-area .pointer{
     height: 15px;
     width: 15px;
-    border: 2px solid #999;
+    border: 2px solid #b28756;
     border-radius: 8px;
     margin-right: 5px;
     margin-left: 5px;
